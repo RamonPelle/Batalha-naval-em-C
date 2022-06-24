@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------------
+Você irá jogar contra a IA. 
+Cada jogador terá um tabuleiro [8 x 8], os quais serão gerados aleatoriamente pelo sistema.
+Para vencer, você precisa encontrar todas as embarcações inimiga, antes que o inimigo encontre as suas.
+O jogo será executado em turnos.
+
+-- CARACTERÍSTICAS --
+1 - Submarino: ocupa 2 quadrados e atinge 1 quadrado no disparo.
+2 - Porta-avião: ocupa 4 quadrados e atinge 2 quadrados no disparo [quadrado alvo e inferior].
+3 - Navil de Escolta: ocupa 3 quadrados e atinge 2 quadrados no disparo [quadrado alvo e direito].
+4 - Caça: ocupa 2 quadrados e atinge 5 quadrados no disparo [quadrado alvo e adjacentes, como um +].
+
+------------------------------------------------------------------------------------
+Desenvolvedores:
+Mathias Ezequiel Milbrath, Ramon Pelle e Roberta Silva dos Santos.
+
